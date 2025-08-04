@@ -1,0 +1,19 @@
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+
+# Environment variables
+.env
